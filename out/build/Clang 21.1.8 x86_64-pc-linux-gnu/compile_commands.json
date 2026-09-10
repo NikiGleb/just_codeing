@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nikigleb/just_codeing/out/build/Clang 21.1.8 x86_64-pc-linux-gnu",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/just_codeing.dir/main.cpp.o -c /home/nikigleb/just_codeing/main.cpp",
+  "file": "/home/nikigleb/just_codeing/main.cpp",
+  "output": "CMakeFiles/just_codeing.dir/main.cpp.o"
+}
+]
