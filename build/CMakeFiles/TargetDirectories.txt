@@ -1,0 +1,3 @@
+/home/nikigleb/just_codeing/build/CMakeFiles/just_codeing.dir
+/home/nikigleb/just_codeing/build/CMakeFiles/edit_cache.dir
+/home/nikigleb/just_codeing/build/CMakeFiles/rebuild_cache.dir
