@@ -1,4 +1,4 @@
 app
 .vscode
-./build/
+./build
 data.txt
